@@ -15,9 +15,10 @@ cd build
 chmod +x ./tunnel.sh
 ./tunnel.sh 
 cd build 
-./tunnel.o <localport> <remoteport>
+./tunnel.o <localport> <remoteport> <remotehost>
 ``` 
 
+
+
 # coming soon
-Cross Platform
- 
+Cross  platform
