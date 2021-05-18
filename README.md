@@ -19,6 +19,3 @@ cd build
 ``` 
 
 
-
-# coming soon
-Cross  platform
